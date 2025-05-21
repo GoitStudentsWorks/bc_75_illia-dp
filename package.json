@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bc_75_illia/",
+    "build": "vite build --base=/bc_75_illia-dp/",
     "preview": "vite preview"
   },
   "devDependencies": {
